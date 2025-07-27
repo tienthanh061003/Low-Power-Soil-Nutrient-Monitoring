@@ -11,5 +11,5 @@ The device start up with Automation mode, while start up, press button 2 and 3 f
 Automation mode: Start up and perform measuring, get GPS coordinates, send data to server and sleep for 1 hours\
 Ultra sleep mode: Same as Automation mode but sleep time is 6 hours
 Debug mode: Display users GUI to access all function manually
-#System PCB
+# System PCB
 We also include project schematics and PCBs. Schematics and PCB include MCU PCB and SIM7020 PCB.
