@@ -12,4 +12,4 @@ Automation mode: Start up and perform measuring, get GPS coordinates, send data 
 Ultra sleep mode: Same as Automation mode but sleep time is 6 hours
 Debug mode: Display users GUI to access all function manually
 # System PCB
-We also include project schematics and PCBs. Schematics and PCB include MCU PCB and SIM7020 PCB.
+We also include project schematics and PCBs. Schematics and PCB including MCU PCB and SIM7020 PCB.
