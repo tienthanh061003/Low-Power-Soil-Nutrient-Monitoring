@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC9_2 Pin=L1-1
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=GND Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U1-15
+Removed Member From Class: ClassName=MCU_Ver1 Member=L1
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C 22pF

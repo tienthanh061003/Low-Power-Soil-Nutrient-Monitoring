@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3.3V Pin=Q5-2
+Removed Pin From Net: NetName=V_BAT Pin=Q5-3
+Removed Member From Class: ClassName=SIM7020 Member=Q5
+Change Component Footprint: Designator=Q Old Footprint=SOT95P240X111-3N New Footprint=SOT95P240X120-3N

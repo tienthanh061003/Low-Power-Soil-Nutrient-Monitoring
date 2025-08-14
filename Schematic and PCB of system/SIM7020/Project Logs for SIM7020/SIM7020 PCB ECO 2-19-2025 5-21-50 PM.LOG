@@ -1,0 +1,17 @@
+Added Component: Designator=J?(CUI_NSIM-1-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NSIM-1-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SIM_VCC Pin=J?-C1
+Added Pin To Net: NetName=RST_EN Pin=J?-C2
+Added Pin To Net: NetName=CLK_EN Pin=J?-C3
+Added Pin To Net: NetName=GND Pin=J?-C5
+Added Pin To Net: NetName=DATA_EN Pin=J?-C7
+Added Pin To Net: NetName=GND Pin=J?-SH1
+Added Pin To Net: NetName=GND Pin=J?-SH2
+Added Pin To Net: NetName=GND Pin=J?-SH3
+Added Pin To Net: NetName=GND Pin=J?-SH4
+Added Member To Class: ClassName=SIM7020 Member=Component J? NSIM-1-A

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=V_BAT Pin=C6-2
+Removed Pin From Net: NetName=V_BAT Pin=C7-2
+Removed Pin From Net: NetName=V_BAT Pin=C8-2
+Removed Pin From Net: NetName=V_BAT Pin=C9-2
+Removed Pin From Net: NetName=V_BAT Pin=Q5-3
+Change Net Name : Old Net Name=V_BAT New Net Name=+3.3V
+Added Pin To Net: NetName=V_BAT Pin=C6-2
+Added Pin To Net: NetName=V_BAT Pin=C7-2
+Added Pin To Net: NetName=V_BAT Pin=C8-2
+Added Pin To Net: NetName=V_BAT Pin=C9-2
+Added Pin To Net: NetName=V_BAT Pin=Q5-3
+Added Net: Name=V_BAT

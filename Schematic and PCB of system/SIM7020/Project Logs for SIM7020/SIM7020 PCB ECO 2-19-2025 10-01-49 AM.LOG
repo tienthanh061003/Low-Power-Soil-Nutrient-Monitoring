@@ -1,0 +1,35 @@
+Added Component: Designator=C?(CAPC1005X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM1555C1H102JA01D/Murata+Electronics+North+America/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM1555C1H102JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM1555C1H102JA01D/Murata+Electronics+North+America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PO?(PCBComponent_1)
+Added Component: Designator=Q?(SOT95P240X111-3N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BSS138/ON%20Semiconductor/view-part/4794929/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BSS138/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138/ON%20Semiconductor/view-part/4794929/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=PO?-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=GND Pin=PO?-7
+Added Net: Name=GND
+Added Pin To Net: NetName=PWR Pin=PO?-4
+Added Net: Name=PWR
+Added Pin To Net: NetName=RST Pin=PO?-3
+Added Net: Name=RST
+Added Pin To Net: NetName=RXD1 Pin=PO?-5
+Added Net: Name=RXD1
+Added Pin To Net: NetName=SIM_MASTER Pin=PO?-2
+Added Net: Name=SIM_MASTER
+Added Pin To Net: NetName=TXD1 Pin=PO?-6
+Added Net: Name=TXD1
+Added Member To Class: ClassName=SIM7020 Member=Component C? GRM1555C1H102JA01D
+Added Member To Class: ClassName=SIM7020 Member=Component PO? MNTT 23/9/2023
+Added Member To Class: ClassName=SIM7020 Member=Component Q? BSS138

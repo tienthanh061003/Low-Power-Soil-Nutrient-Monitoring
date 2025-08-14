@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC9_2 Pin=L1-1
+Change Component Footprint: Designator=L1 Old Footprint=INDC0603X33N New Footprint=IND_CDRH127/LDNP-470MC_SUM
+Change Component Comment : Designator=L1 Old Comment=2.2u New Comment=2.2uH
+Added Component: Designator=U1(SOP65P490X110-9N)
+Added Pin To Net: NetName=NetC9_2 Pin=L1-2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetR3_2 Pin=U1-4
+Added Pin To Net: NetName=NetR8_2 Pin=U1-5
+Added Pin To Net: NetName=NetC6_1 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-2
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=MCU_Ver1 Member=Component U1 24/02/2025

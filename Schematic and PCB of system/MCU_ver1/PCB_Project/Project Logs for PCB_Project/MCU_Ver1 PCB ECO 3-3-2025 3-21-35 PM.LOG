@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=GND Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U1-15
+Added Member To Class: ClassName=MCU_Ver1 Member=Component L1 2.2uH

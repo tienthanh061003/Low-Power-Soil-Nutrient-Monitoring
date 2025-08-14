@@ -1,0 +1,12 @@
+Added Component: Designator=C(CAPC0603X33N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "490-10682-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM033R71H102KA12D/490-10682-1-ND/5251423?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM033R71H102KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM033R71H102KA12D/Murata/view-part/4374985/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFP50P1200X1200X160-64N)
+Added Component: Designator=X?(XT2)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Class: Name=MCU_Ver1

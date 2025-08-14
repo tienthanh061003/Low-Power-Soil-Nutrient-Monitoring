@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=R46-1
+Removed Member From Class: ClassName=MCU_Ver1 Member=R46
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=5V Pin=J-2
+Added Pin To Net: NetName=5V Pin=R8-1
+Added Pin To Net: NetName=5V Pin=U1-6
+Added Room: Name=MCU_Ver1

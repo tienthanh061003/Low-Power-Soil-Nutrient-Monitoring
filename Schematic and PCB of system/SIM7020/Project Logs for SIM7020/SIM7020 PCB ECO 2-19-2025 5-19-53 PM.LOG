@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SIM_VCC Pin=J3-C1
+Removed Pin From Net: NetName=RST_EN Pin=J3-C2
+Removed Pin From Net: NetName=CLK_EN Pin=J3-C3
+Removed Pin From Net: NetName=GND Pin=J3-C5
+Removed Pin From Net: NetName=DATA_EN Pin=J3-C7
+Removed Pin From Net: NetName=GND Pin=J3-SH1
+Removed Pin From Net: NetName=GND Pin=J3-SH2
+Removed Pin From Net: NetName=GND Pin=J3-SH3
+Removed Pin From Net: NetName=GND Pin=J3-SH4
+Removed Member From Class: ClassName=SIM7020 Member=J3
+Added Member To Class: ClassName=SIM7020 Member=Component J1 SIM7020E

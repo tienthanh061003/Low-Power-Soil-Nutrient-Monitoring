@@ -1,0 +1,25 @@
+Added Component: Designator=J1(SIM7020E)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SIM7020E/Simco/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "simcom wireless solutions limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SIM7020E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SIM7020E/Simco/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UART1_TXD Pin=J1-1
+Added Pin To Net: NetName=UART1_RXD Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=SIM_DATA Pin=J1-15
+Added Pin To Net: NetName=SIM_CLK Pin=J1-16
+Added Pin To Net: NetName=SIM_RST Pin=J1-17
+Added Pin To Net: NetName=SIM_VCC Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=GND Pin=J1-21
+Added Pin To Net: NetName=RESET Pin=J1-28
+Added Pin To Net: NetName=RF_ANT Pin=J1-32
+Added Pin To Net: NetName=PWRKEY Pin=J1-39
+Added Pin To Net: NetName=NETLIGHT Pin=J1-41
+Added Pin To Net: NetName=STATUS Pin=J1-42
+Added Net: Name=STATUS
+Added Member To Class: ClassName=SIM7020 Member=Component J1 SIM7020E

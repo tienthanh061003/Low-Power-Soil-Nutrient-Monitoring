@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LFXIN Pin=X1-1
+Removed Pin From Net: NetName=LFXOUT Pin=X1-2
+Removed Member From Class: ClassName=MCU_Ver1 Member=X1
+Added Component: Designator=X?(XT32k)
+Add component (AddParameter): Name = "Value"; Value = "32,768khz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LFXIN Pin=X?-1
+Added Pin To Net: NetName=LFXOUT Pin=X?-2
+Added Member To Class: ClassName=MCU_Ver1 Member=Component X? 32,768 Khz

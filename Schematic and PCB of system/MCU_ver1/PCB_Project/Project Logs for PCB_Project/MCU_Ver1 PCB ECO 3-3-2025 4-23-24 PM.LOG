@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=GND Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U1-15
+Added Component: Designator=SW5(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RST Pin=SW5-1
+Added Pin To Net: NetName=GND Pin=SW5-2
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C6 10u
+Added Member To Class: ClassName=MCU_Ver1 Member=Component SW5 SW
+Added Member To Class: ClassName=MCU_Ver1 Member=Component U1 24/02/2025

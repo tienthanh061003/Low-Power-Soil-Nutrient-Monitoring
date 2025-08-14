@@ -1,0 +1,58 @@
+Added Component: Designator=Buttons?(4 buttons)
+Added Component: Designator=L?(PCBComponent_1)
+Added Component: Designator=VR?(VR)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=L?-1
+Added Pin To Net: NetName=GND Pin=L?-16
+Added Pin To Net: NetName=GND Pin=VR?-3
+Added Pin To Net: NetName=5V Pin=L?-2
+Added Pin To Net: NetName=5V Pin=L?-15
+Added Net: Name=5V
+Added Pin To Net: NetName=D4 Pin=L?-11
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=L?-12
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=L?-13
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=L?-14
+Added Net: Name=D7
+Added Pin To Net: NetName=DE Pin=NPK_?-3
+Added Pin To Net: NetName=DE Pin=U?-32
+Added Net: Name=DE
+Added Pin To Net: NetName=DI Pin=NPK_?-4
+Added Pin To Net: NetName=DI Pin=U?-33
+Added Net: Name=DI
+Added Pin To Net: NetName=E Pin=L?-6
+Added Net: Name=E
+Added Pin To Net: NetName=NetL?_3 Pin=L?-3
+Added Pin To Net: NetName=NetL?_3 Pin=VR?-1
+Added Pin To Net: NetName=NetL?_3 Pin=VR?-2
+Added Net: Name=NetL?_3
+Added Pin To Net: NetName=RE Pin=NPK_?-2
+Added Pin To Net: NetName=RE Pin=U?-7
+Added Net: Name=RE
+Added Pin To Net: NetName=RO Pin=NPK_?-1
+Added Pin To Net: NetName=RO Pin=U?-6
+Added Net: Name=RO
+Added Pin To Net: NetName=RS Pin=L?-4
+Added Net: Name=RS
+Added Pin To Net: NetName=RW Pin=L?-5
+Added Net: Name=RW
+Added Member To Class: ClassName=MCU_Ver1 Member=Component Buttons? 4 buttons
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C? 22pF
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C? 100n
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C? 10u
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C? 100n
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C? 100n
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C? 100n
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C? 100n
+Added Member To Class: ClassName=MCU_Ver1 Member=Component C 22pF
+Added Member To Class: ClassName=MCU_Ver1 Member=Component L? 25/02/2025
+Added Member To Class: ClassName=MCU_Ver1 Member=Component R? 0
+Added Member To Class: ClassName=MCU_Ver1 Member=Component R? 0
+Added Member To Class: ClassName=MCU_Ver1 Member=Component R? 0
+Added Member To Class: ClassName=MCU_Ver1 Member=Component R? 0
+Added Member To Class: ClassName=MCU_Ver1 Member=Component R? 0
+Added Member To Class: ClassName=MCU_Ver1 Member=Component R? 0
+Added Member To Class: ClassName=MCU_Ver1 Member=Component U? 21/2/2025
+Added Member To Class: ClassName=MCU_Ver1 Member=Component VR? 103

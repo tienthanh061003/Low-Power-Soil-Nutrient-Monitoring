@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=UART1_TXD Pin=J1-1
+Removed Pin From Net: NetName=UART1_RXD Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-13
+Removed Pin From Net: NetName=SIM_DATA Pin=J1-15
+Removed Pin From Net: NetName=SIM_CLK Pin=J1-16
+Removed Pin From Net: NetName=SIM_RST Pin=J1-17
+Removed Pin From Net: NetName=SIM_VCC Pin=J1-18
+Removed Pin From Net: NetName=GND Pin=J1-19
+Removed Pin From Net: NetName=GND Pin=J1-21
+Removed Pin From Net: NetName=RESET Pin=J1-28
+Removed Pin From Net: NetName=RF_ANT Pin=J1-32
+Removed Pin From Net: NetName=PWRKEY Pin=J1-39
+Removed Pin From Net: NetName=NETLIGHT Pin=J1-41
+Removed Member From Class: ClassName=SIM7020 Member=J1
+Added Member To Class: ClassName=SIM7020 Member=Component Q1 MMBT3904LT1G
+Added Member To Class: ClassName=SIM7020 Member=Component Q2 MMBT3904LT1G
+Added Member To Class: ClassName=SIM7020 Member=Component Q MMBT3904LT1G
